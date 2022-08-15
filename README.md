@@ -1,5 +1,6 @@
 Python tutorial exercises.
 Week 1 - Basic for loops 1.
+
 Week 2 - Basic for loops 2.
 Week 3 - List manipulation, While Loop/For Loops.
 Week 4: Dictionaries.
