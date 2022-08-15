@@ -11,4 +11,3 @@ Week 4: Dictionaries.
 Week 5: Comprehensions.
 
 Week 6: Basic of structure of classes.
-
