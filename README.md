@@ -1,3 +1,4 @@
+# README
 Python tutorial exercises.
 
 Week 1 - Basic for loops 1.
