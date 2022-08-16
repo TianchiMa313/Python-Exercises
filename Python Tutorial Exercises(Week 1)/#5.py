@@ -1,6 +1,6 @@
 '''
-    The script will find the first number divisible by 7 
-    in the range of two given input numbers x and y. 
+The script will find the first number divisible by 7 
+in the range of two given input numbers x and y. 
 '''
 x = 8
 y = 30
